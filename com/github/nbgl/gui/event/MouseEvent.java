@@ -7,5 +7,5 @@
 */
 package com.github.nbgl.geom;
 
-public abstract class MouseEvent extends java.awt.event.MouseEvent{
+public abstract interface MouseEvent extends java.awt.event.MouseEvent{
 }
