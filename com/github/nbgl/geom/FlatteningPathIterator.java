@@ -4,7 +4,7 @@
 *(c)Copyright - 2015                                                                                    *
 *Written by Baldvicio,Jonathan Eldy I.                                                                  *
 *                                                                                                       *
-*This class creates an 2D arc drawn at JGameArena.                                                       *
+*This class creates an flattening path iterator at JGameArena.                                                       *
 */
 package com.github.nbgl.geom;
 
