@@ -5,7 +5,7 @@
 *Written by Baldvicio,Jonathan Eldy I.                                                                  *
 *                                                                                                       *
 */
-package com.github.nbgl.geom;
+package com.github.nbgl.geom.event;
 
 public abstract class MouseListener extends java.awt.event.MouseListener{
 }
